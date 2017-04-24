@@ -1,0 +1,5 @@
+D:\DOTNETProjects\Sample2\bin\Sample2.dll
+D:\DOTNETProjects\Sample2\bin\Sample2.pdb
+D:\DOTNETProjects\Sample2\obj\Debug\Sample2.csprojResolveAssemblyReference.cache
+D:\DOTNETProjects\Sample2\obj\Debug\Sample2.dll
+D:\DOTNETProjects\Sample2\obj\Debug\Sample2.pdb
